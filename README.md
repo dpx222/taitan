@@ -1,0 +1,2 @@
+# taitan
+Your Titan currency
